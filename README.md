@@ -1,5 +1,5 @@
 参考具身智能学术排行榜，整理出来扩散模型学术排行榜
-主要包含：图像生成（T2I，I2I）、视频生成（T2V，I2V），3D生成（T2 3D，I2 3D），里面不少人有在LLM、VLM和Diffusion里面有交叉，可能有些许遗漏和误差，陆续编辑中，暂无排序逻辑，后期会再进行调整，欢迎纠错
+主要包含：图像生成（T2I，I2I）、视频生成（T2V，I2V），3D生成（T2 3D，I2 3D），里面不少人有在LLM、VLM和Diffusion里面有交叉，可能有些许遗漏和误差，陆续编辑中，按照谷歌学术引用量排序，欢迎纠错
 markdown
 # 扩散模型学术排行榜 🏆
 | 姓名 | 目前公司/高校 | 职位 | 引用量 | 教育经历 | 工作背景 |
@@ -20,9 +20,9 @@ markdown
 | Yunpeng Chen 陈云鹏   | AlkaidVision  | CEO |9.8K |新加坡国立大学NUS15-19博士<br>华中科技大学本科11-15 |前美图公司的技术总监、美图影像研究院（MT Lab）北京负责人 |
 | Ding Liang 梁鼎 | Vast | CTO  | 1.3W+ | 清华大学自动化09-13本科，13-16硕士 | 23.06-至今Vast CTO，14-23商汤总监|
 | Yu Liu 刘宇 | InterAive | CEO | 1.1W+ | 香港中文大学17-19博士，北京航空航天大学13-17本科 | 商汤19-24 研究执行总监，Google AI实习 |
+| Cuiling Lan 兰翠玲 | MSRA  | Principal Researcher  | 1.1W+ | 西安电子科技大学04-08本科，08-14博士 | MSRA 14-至今 |
 | Xi Yin 殷希 | Meta | Research Scientist | 1W+ | Uminch 13-18博士，武汉大学09-13本科 | Meta Movie Gen |
 | Huiwen Chang 常慧文 | Meta/OpenAI/ | Technical Staff | 1W+ | 普林斯顿13-18博士，清华大学09-13本科 | OpenAI/Google，Muse一作 |
-| Cuiling Lan 兰翠玲 | MSRA  | Principal Researcher  | 1.1W+ | 西安电子科技大学04-08本科，08-14博士 | MSRA 14-至今 |
 | ---- | ------------- | ---- | ------ | -------- | -------- |
 | ---- | ------------- | ---- | ------ | -------- | -------- |
 | ---- | ------------- | ---- | ------ | -------- | -------- |
