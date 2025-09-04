@@ -1,34 +1,35 @@
 参考具身智能学术排行榜，整理出来扩散模型学术排行榜
-主要包含：图像生成（T2I，I2I）、视频生成（T2V，I2V），3D生成（T2 3D，I2 3D），里面不少人有在LLM、VLM和Diffusion里面有交叉，可能有些许遗漏和误差，陆续编辑中，按照谷歌学术引用量排序，欢迎纠错
+主要包含：图像生成（T2I，I2I）、视频生成（T2V，I2V），3D生成（T2 3D，I2 3D），里面不少人有在LLM、VLM和Diffusion里面有交叉，可能有些许遗漏和误差，陆续编辑中，按照谷歌学术引用量排序，欢迎纠错，引用量的单位是K
+
 markdown
 # 扩散模型学术排行榜 🏆
 | 姓名 | 目前公司/高校 | 职位 | 引用量 | 教育经历 | 工作背景 |
 | ---- | ------------- | ---- | ------ | -------- | -------- |
-| Yue Cao 曹越 | Sand AI | CEO | 6.9W+ | 清华大学本硕博10-14,14-19 | 光年之外联合创始人，智源，MSRA|
-| Jingdong Wang 王井东 | 百度 | 计算机视觉首席科学家 | 6.7W+ | 香港科技大学04-07博士，清华本科硕士97-01,01-04| MSRA 07-21 高级研究经理 |
-| Wei Liu 刘威 | Video Rebirth | CEO | 5.4W+ | 哥伦比亚大学07-12博士，浙江大学本科 | 腾讯AI lab 杰出科学家，腾讯混元大模型技术负责人之一 |
-| Tao Mei 梅涛 | 智象未来 | CEO | 4.6W+ | 中国科学技术大学本硕博96-01，01-06 | 前京东集团副总裁、京东探索研究院副院长 |
-| Zhe L. Lin | Adobe | Senior Principal Scientist | 4.1W+ | 马里兰大学05-09博士，USTC 97-02本科 | Adobe 09-至今 |
-| Han Zhang | Reve AI | Co-founder | 4W+ | 罗格斯特大学12-18博士，北京邮件大学09-12硕士，中国农业大学06-09本科 | Google Deepmind Imagen&Veo |
-| Nan Duan 段楠 | 京东 | 京东集团副总裁、探索研究院图像与多模态实验室主任 | 2.9W+ | 天津大学本硕博00-04,05-07,07-11 | 前阶跃视频生成负责人，微软06-24 NLP方向|
-| Junnan Li 李俊男 | Salesforce | Research Director | 2.6W+ | NUS 15-19博士，香港大学12-15本科 | 前Rhymes.AI（零一）Co-founder|
-| Xintao Wang 王鑫涛 | 快手 | 可灵视觉生成与互动中心高级研究员 |2.6W+ | 港大MMU 16-20博士<br>浙江大学12-16本科 | 24.03至今快手，20-23腾讯|
-| Ping Tan 谭平 |光影焕像 | CEO | 2.3W+ | 香港科技大学03-07博士<br>上海交通大学本科硕士96-00,00-03 | 光影幻像创业<br>阿里P10 |
-| Jue Wang 王珏 | Seekoo寻酷科技 | CEO | 2.2W+ | 美国华盛顿大学博士，清华大学本硕 | 前腾讯杰出科学家 |
-| Liefeng Bo 薄列峰 | 腾讯 | 混元GM | 1.7W+ | 西安电子科技大学本硕博98-02,02-07 | 腾讯GM<br>阿里P10 |
-| Changhu Wang 王长虎 | 爱诗科技 | CEO | 1.2W+ | 中国科学技术大学本硕博00-04，03-09| 字节AIlab 视觉技术总监<br>MSRA |
-| Yunpeng Chen 陈云鹏   | AlkaidVision  | CEO |9.8K |新加坡国立大学NUS15-19博士<br>华中科技大学本科11-15 |前美图公司的技术总监、美图影像研究院（MT Lab）北京负责人 |
-| Ding Liang 梁鼎 | Vast | CTO  | 1.3W+ | 清华大学自动化09-13本科，13-16硕士 | 23.06-至今Vast CTO，14-23商汤总监|
-| Yu Liu 刘宇 | InterAive | CEO | 1.1W+ | 香港中文大学17-19博士，北京航空航天大学13-17本科 | 商汤19-24 研究执行总监，Google AI实习 |
-| Cuiling Lan 兰翠玲 | MSRA  | Principal Researcher  | 1.1W+ | 西安电子科技大学04-08本科，08-14博士 | MSRA 14-至今 |
-| Xi Yin 殷希 | Meta | Research Scientist | 1W+ | Uminch 13-18博士，武汉大学09-13本科 | Meta Movie Gen |
-| Huiwen Chang 常慧文 | Meta/OpenAI/ | Technical Staff | 1W+ | 普林斯顿13-18博士，清华大学09-13本科 | OpenAI/Google，Muse一作 |
-| ---- | ------------- | ---- | ------ | -------- | -------- |
-| ---- | ------------- | ---- | ------ | -------- | -------- |
-| ---- | ------------- | ---- | ------ | -------- | -------- |
-| ---- | ------------- | ---- | ------ | -------- | -------- |
-| ---- | ------------- | ---- | ------ | -------- | -------- |
-| ---- | ------------- | ---- | ------ | -------- | -------- |
+| Yue Cao 曹越 | Sand AI | CEO | 69 | 清华大学本硕博10-14,14-19 | 光年之外联合创始人，智源，MSRA|
+| Jingdong Wang 王井东 | 百度 | 计算机视觉首席科学家 | 67 | 香港科技大学04-07博士，清华本科硕士97-01,01-04| MSRA 07-21 高级研究经理 |
+| Wei Liu 刘威 | Video Rebirth | CEO | 54 | 哥伦比亚大学07-12博士，浙江大学本科 | 腾讯AI lab 杰出科学家，腾讯混元大模型技术负责人之一 |
+| Jie Hu Frank 胡杰 | 美团 | Principal Researcher | 47 | 中科院自动化所2018–2023博士，导师吴恩华 | 美团 |
+| Tao Mei 梅涛 | 智象未来 | CEO | 46 | 中国科学技术大学本硕博96-01，01-06 | 前京东集团副总裁、京东探索研究院副院长 |
+| Zhe L. Lin | Adobe | Senior Principal Scientist | 41 | 马里兰大学05-09博士，USTC 97-02本科 | Adobe 09-至今 |
+| Han Zhang | Reve AI | Co-founder | 40 | 罗格斯特大学12-18博士，北京邮件大学09-12硕士，中国农业大学06-09本科 | Google Deepmind Imagen&Veo |
+| Lu Yuan 袁路 | Meta | Reseach Scientist | 39 | 香港科技大学05-09博士，清华大学硕士 | Microsoft，Principal Research Manager |
+| Han Zhang | Reve AI | Co-founder | 31 | Rutgers University博士18年毕业 | 前Google |
+| Nan Duan 段楠 | 京东 | 京东集团副总裁、探索研究院图像与多模态实验室主任 | 29 | 天津大学本硕博00-04,05-07,07-11 | 前阶跃视频生成负责人，微软06-24 NLP方向|
+| Junnan Li 李俊男 | Salesforce | Research Director | 26 | NUS 15-19博士，香港大学12-15本科 | 前Rhymes.AI（零一）Co-founder|
+| Xintao Wang 王鑫涛 | 快手 | 可灵视觉生成与互动中心高级研究员 |26 | 港大MMU 16-20博士<br>浙江大学12-16本科 | 24.03至今快手，20-23腾讯|
+| Lijuan Wang 王丽娟 | 微软 | Principal Research Manager  | 24 | 清华大学博士01-06年，华中科技大学1997-2001本科 | 06年加入微软至今 |
+| Ping Tan 谭平 |光影焕像 | CEO | 23 | 香港科技大学03-07博士<br>上海交通大学本科硕士96-00,00-03 | 光影幻像创业<br>阿里P10 |
+| Jue Wang 王珏 | Seekoo寻酷科技 | CEO | 22 | 美国华盛顿大学博士，清华大学本硕 | 前腾讯杰出科学家 |
+| Liefeng Bo 薄列峰 | 腾讯 | 混元GM | 17 | 西安电子科技大学本硕博98-02,02-07 | 腾讯GM<br>阿里P10 |
+| Changhu Wang 王长虎 | 爱诗科技 | CEO | 12 | 中国科学技术大学本硕博00-04，03-09| 字节AIlab 视觉技术总监<br>MSRA |
+| Ding Liang 梁鼎 | Vast | CTO  | 13 | 清华大学自动化09-13本科，13-16硕士 | 23.06-至今Vast CTO，14-23商汤总监|
+| Yu Liu 刘宇 | InterAive | CEO | 11 | 香港中文大学17-19博士，北京航空航天大学13-17本科 | 商汤19-24 研究执行总监，Google AI实习 |
+| Renrui Zhang张仁瑞 | 字节 | Researcher | 11 | 香港中文大学21至今北京大学本科17-21 | 上海人工智能实验室导师 |
+| Cuiling Lan 兰翠玲 | MSRA  | Principal Researcher  | 11 | 西安电子科技大学04-08本科，08-14博士 | MSRA 14-至今 |
+| Xi Yin 殷希 | Meta | Research Scientist | 10 | Uminch 13-18博士，武汉大学09-13本科 | Meta Movie Gen |
+| Huiwen Chang 常慧文 | Meta/OpenAI/ | Technical Staff | 10 | 普林斯顿13-18博士，清华大学09-13本科 | OpenAI/Google，Muse一作 |
+| Yunpeng Chen 陈云鹏   | AlkaidVision  | CEO |9.8 |新加坡国立大学NUS15-19博士<br>华中科技大学本科11-15 |前美图公司的技术总监、美图影像研究院（MT Lab）北京负责人 |
+| Xi Yin 殷希 | Meta | Research Scientist | 9.3 | 密歇根州立大学13-18博士，武汉大学09-13本科 | 前微软 |
 | ---- | ------------- | ---- | ------ | -------- | -------- |
 | ---- | ------------- | ---- | ------ | -------- | -------- |
 | ---- | ------------- | ---- | ------ | -------- | -------- |
