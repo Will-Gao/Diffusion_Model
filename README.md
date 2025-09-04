@@ -13,7 +13,6 @@ markdown
 | Zhe L. Lin | Adobe | Senior Principal Scientist | 41 | 马里兰大学05-09博士，USTC 97-02本科 | Adobe 09-至今 |
 | Han Zhang | Reve AI | Co-founder | 40 | 罗格斯特大学12-18博士，北京邮件大学09-12硕士，中国农业大学06-09本科 | Google Deepmind Imagen&Veo |
 | Lu Yuan 袁路 | Meta | Reseach Scientist | 39 | 香港科技大学05-09博士，清华大学硕士 | Microsoft，Principal Research Manager |
-| Han Zhang | Reve AI | Co-founder | 31 | Rutgers University博士18年毕业 | 前Google |
 | Nan Duan 段楠 | 京东 | 京东集团副总裁、探索研究院图像与多模态实验室主任 | 29 | 天津大学本硕博00-04,05-07,07-11 | 前阶跃视频生成负责人，微软06-24 NLP方向|
 | Junnan Li 李俊男 | Salesforce | Research Director | 26 | NUS 15-19博士，香港大学12-15本科 | 前Rhymes.AI（零一）Co-founder|
 | Xintao Wang 王鑫涛 | 快手 | 可灵视觉生成与互动中心高级研究员 |26 | 港大MMU 16-20博士<br>浙江大学12-16本科 | 24.03至今快手，20-23腾讯|
